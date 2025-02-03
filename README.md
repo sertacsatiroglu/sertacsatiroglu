@@ -12,11 +12,11 @@
 
 | Senior METU EE Student |
 
-## About :sunglasses:
+## About 
 I study at Electrical Electronics Engineering / Middle East Technical University. Check my page!
 
 
-## Technologies :fire:
+## Technologies
 - C++ 
 - Verilog
 - C
