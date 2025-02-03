@@ -1,6 +1,6 @@
  # <a href="https://www.linkedin.com/in/sertacsatiroglu/">Sertaç Satıroğlu</a>
  
-<a href="[https://linkedin.com/in/sertacsatiroglu](https://www.linkedin.com/in/mustafa-serta%C3%A7-sat%C4%B1ro%C4%9Flu-9509761b2/)">
+<a href="[https://linkedin.com/in/mustafa-sertaç-satıroğlu-9509761b2](https://www.linkedin.com/in/mustafa-sertaç-satıroğlu-9509761b2)">
   <img align="left" alt="Sertac's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sertacsatiroglu">
@@ -35,7 +35,7 @@ I study at Electrical Electronics Engineering / Middle East Technical University
 
 
 ##  Contact Me For my CV and More :speech_balloon:
- [![Linkedin Badge](https://img.shields.io/badge/-sertacsatiroglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sertacsatiroglu](https://www.linkedin.com/in/mustafa-serta%C3%A7-sat%C4%B1ro%C4%9Flu-9509761b2/)/)](https://www.linkedin.com/in/sertacsatiroglu/) [![Gmail Badge](https://img.shields.io/badge/-sertacsatirogluuu@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sertacsatirogluuu@outlook.com)](mailto:sertacsatirogluuu@outlook.com) 
+ [![Linkedin Badge](https://img.shields.io/badge/-sertacsatiroglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mustafa-sertaç-satıroğlu-9509761b2](https://www.linkedin.com/in/mustafa-serta%C3%A7-sat%C4%B1ro%C4%9Flu-9509761b2/)/)](https://www.linkedin.com/in/sertacsatiroglu/) [![Gmail Badge](https://img.shields.io/badge/-sertacsatirogluuu@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sertacsatirogluuu@outlook.com)](mailto:sertacsatirogluuu@outlook.com) 
 
 <p align="center"> 
   Visitor count<br>
