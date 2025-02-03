@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/sertacsatiroglu/">Sertaç Satıroğlu</a> :smiley:
+ # <a href="https://www.linkedin.com/in/sertacsatiroglu/">Sertaç Satıroğlu</a>
  
 <a href="https://linkedin.com/in/sertacsatiroglu">
   <img align="left" alt="Sertac's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
